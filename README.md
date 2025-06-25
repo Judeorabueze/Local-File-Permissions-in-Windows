@@ -8,5 +8,18 @@ This task was completed in response to a training ticket assigned during my hand
 ## Lessons Learnt
 Through this project, I learned how easily inherited permissions can expose sensitive files if not properly managed. I also deepened my understanding of how Deny permissions take precedence. This exercise reinforced my understanding of the principle of least privilege and its real-world application.
 
-### Ticket
+## Ticket
 ![Ticket](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/ticket.PNG)
+
+## Objectives
+To demonstrate the ability to manage file and folder permissions in Windows
+To restrict access to sensitive files based on user roles
+To apply the principles of least privilege and access control
+To show proficiency in using built-in Windows tools for security management
+To document a repeatable approach for applying permissions in real-world scenarios
+
+## Tools and Technologies
+Windows 11 (Virtual Machine)
+Local Users and Groups (lusrmgr.msc)
+NTFS File System
+File Explorer Security Tab
