@@ -9,3 +9,4 @@ This task was completed in response to a training ticket assigned during my hand
 Through this project, I learned how easily inherited permissions can expose sensitive files if not properly managed. I also deepened my understanding of how Deny permissions take precedence. This exercise reinforced my understanding of the principle of least privilege and its real-world application.
 
 ### Ticket
+![Ticket](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/ticket.PNG)
