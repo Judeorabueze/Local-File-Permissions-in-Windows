@@ -12,14 +12,14 @@ Through this project, I learned how easily inherited permissions can expose sens
 ![Ticket](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/ticket.PNG)
 
 ## Objectives
-To demonstrate the ability to manage file and folder permissions in Windows
-To restrict access to sensitive files based on user roles
-To apply the principles of least privilege and access control
-To show proficiency in using built-in Windows tools for security management
-To document a repeatable approach for applying permissions in real-world scenarios
+- To demonstrate the ability to manage file and folder permissions in Windows
+- To restrict access to sensitive files based on user roles
+- To apply the principles of least privilege and access control
+- To show proficiency in using built-in Windows tools for security management
+- To document a repeatable approach for applying permissions in real-world scenarios
 
 ## Tools and Technologies
-Windows 11 (Virtual Machine)
-Local Users and Groups (lusrmgr.msc)
-NTFS File System
-File Explorer Security Tab
+- Windows 11 (Virtual Machine)
+- Local Users and Groups (lusrmgr.msc)
+- NTFS File System
+- File Explorer Security Tab
