@@ -20,9 +20,15 @@ Through this project, I learned how easily inherited permissions can expose sens
 
 ## Tools and Technologies
 - Windows 11 (Virtual Machine)
-- Local Users and Groups (lusrmgr.msc)
+- Local Users and Groups (`lusrmgr.msc`)
 - NTFS File System
 - File Explorer Security Tab
 
 ## Aproach Adopted
 <b>1. Change local user account (Richard) fron admin group to a standard / regular user</b> 
+
+<b>Method 1: Using Local Users and Groups (GUI)</b>
+-  Open Local Users and Groups
+    - Press `Win + R` type `lusrmgr.msc`, and press `Enter`.
+- In the left pane, click on `Users`.
+- In the middle pane, find and double-click on `Richard`. 
