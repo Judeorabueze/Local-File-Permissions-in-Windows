@@ -23,3 +23,6 @@ Through this project, I learned how easily inherited permissions can expose sens
 - Local Users and Groups (lusrmgr.msc)
 - NTFS File System
 - File Explorer Security Tab
+
+## Aproach Adopted
+<b>1. Change local user account (Richard) fron admin group to a standard / regular user</b> 
