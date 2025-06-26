@@ -37,4 +37,12 @@ Through this project, I learned how easily inherited permissions can expose sens
 ![Local User](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/Loca%20User.PNG)
 
 - Select "Administrators" and click Remove.
-- Since "Users" is already in Richards "Member Of" page, click apply and OK.
+- Since "Users" is already in Richards "Member Of" page, click 'Apply' and then 'OK'.
+- 
+![local user 2](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/Local%20user%202.PNG)
+
+The user "Richard" has successfully been removed from Administrators group and made a regular User.
+
+<b> Method 2: Using Command Prompt (Admin)</b>
+- Search for cmd or Command Prompt on Windows.
+- Click on 'Run as administrator'
