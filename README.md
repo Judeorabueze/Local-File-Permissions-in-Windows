@@ -46,3 +46,4 @@ The user "Richard" has successfully been removed from Administrators group and m
 <b> Method 2: Using Command Prompt (Admin)</b>
 - Search for cmd or Command Prompt on Windows.
 - Click on 'Run as administrator'
+- In the CLI, enter `net localgroup Administrators` to check the list of local administrators on a Windows system 
