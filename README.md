@@ -30,5 +30,9 @@ Through this project, I learned how easily inherited permissions can expose sens
 <b>Method 1: Using Local Users and Groups (GUI)</b>
 -  Open Local Users and Groups
     - Press `Win + R` type `lusrmgr.msc`, and press `Enter`.
-- In the left pane, click on `Users`.
-- In the middle pane, find and double-click on `Richard`. 
+- In the left pane, click on "Users".
+- In the middle pane, find and double-click on "Richard".
+- In the "Richard Properties" window, go to the "Member Of" tab.
+
+
+- Select "Administrators" and click Remove.
