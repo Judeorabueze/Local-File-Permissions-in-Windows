@@ -34,5 +34,7 @@ Through this project, I learned how easily inherited permissions can expose sens
 - In the middle pane, find and double-click on "Richard".
 - In the "Richard Properties" window, go to the "Member Of" tab.
 
+![Local User](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/Loca%20User.PNG)
 
 - Select "Administrators" and click Remove.
+- Since "Users" is already in Richards "Member Of" page, click apply and OK.
