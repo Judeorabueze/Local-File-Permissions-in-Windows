@@ -47,3 +47,10 @@ The user "Richard" has successfully been removed from Administrators group and m
 - Search for cmd or Command Prompt on Windows.
 - Click on 'Run as administrator'
 - In the CLI, enter `net localgroup Administrators` to check the list of local administrators on a Windows system 
+
+![Admin List](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/Admin.PNG)
+
+From the screenshot above, the user "Richard" was in Administrators group.
+
+- Remove "Richard" from Administrators group, enter `net localgroup Administrators Richard /delete`
+- Add User "Richard" to standard User group, enter `net localgroup Users Richard /add`
