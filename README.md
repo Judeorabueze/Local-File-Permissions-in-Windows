@@ -54,3 +54,8 @@ From the screenshot above, the user "Richard" was in Administrators group.
 
 - Remove "Richard" from Administrators group, enter `net localgroup Administrators Richard /delete`
 - Add User "Richard" to standard User group, enter `net localgroup Users Richard /add`
+
+![user check](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/User%20group%20cli.PNG)
+
+From the screenshot above, user "Richard" has been removed from Administrators group and now a standard user.
+
