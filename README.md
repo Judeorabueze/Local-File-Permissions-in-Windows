@@ -71,3 +71,8 @@ Alternatively, enter `net user Richard` to confirm the local user "Richard"
 - Log into Windows 11 using admin account. (Only admin has permission management privileges).
 - Open File Explorer and navigate to the folder where `salary.txt` is stored. ( In my case: "C:\Salary\salary.txt" )
 - Right-click on the `salary.txt` file, click on 'Properties' and then on 'Security'
+
+![Salary Properties](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/salary%20properties.PNG)
+
+- Click on "Advanced", select Users and then click on Disable Inheritance.
+  
