@@ -62,7 +62,7 @@ From the screenshot above, the user "Richard" was in Administrators group.
 
 Alternatively, enter `net user Richard` to confirm the local user "Richard"
 
-
+![net user Richard](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/netuser.PNG)
 
 From the screenshot above, user "Richard" has been removed from Administrators group and now a standard user.
 
