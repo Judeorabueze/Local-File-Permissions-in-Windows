@@ -25,7 +25,8 @@ Through this project, I learned how easily inherited permissions can expose sens
 - File Explorer Security Tab
 
 ## Aproach Adopted
-<b>1. Change local user account (Richard) fron admin group to a standard / regular user</b> 
+
+### 1. Change local user account (Richard) fron admin group to a standard / regular user.
 
 <b>Method 1: Using Local Users and Groups (GUI)</b>
 -  Open Local Users and Groups
@@ -59,5 +60,10 @@ From the screenshot above, the user "Richard" was in Administrators group.
 
 ![user check](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/User%20group%20cli.PNG)
 
+Alternatively, enter `net user Richard` to confirm the local user "Richard"
+
+
+
 From the screenshot above, user "Richard" has been removed from Administrators group and now a standard user.
 
+### 2. Change local user account (Richard) fron admin group to a standard / regular user.
