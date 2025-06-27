@@ -90,3 +90,7 @@ All inherited permissions have been removed and no user longer have access to `s
 - In the Select Users or Groups box, type the name of the user or group you wish to add (In my case, Administrators).
 - Click on 'Check Names" and click on OK.
 - Assign permissions to allow and click on OK
+
+![Administartor](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/Administr.PNG)
+
+The User 'Richard" no longer have access to `Salary.txt` file.
