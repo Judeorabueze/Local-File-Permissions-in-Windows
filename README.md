@@ -76,3 +76,5 @@ Alternatively, enter `net user Richard` to confirm the local user "Richard"
 
 - Click on "Advanced", select Users and then click on Disable Inheritance.
   
+![Disable Inheritance](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/Disable%20inheritance.PNG)
+
