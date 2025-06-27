@@ -66,7 +66,7 @@ Alternatively, enter `net user Richard` to confirm the local user "Richard"
 
 - From the screenshot above, user "Richard" has been removed from Administrators group and now a standard user.
 
-### 2. Remove Inherited Permissions for Richard on `salary.txt` (GUI Method)
+### 2. Remove Inherited Permissions for Richard on `salary.txt` (GUI Method) and deny 'Richard' access to `Salary.txt` file
 
 - Log into Windows 11 using admin account. (Only admin has permission management privileges).
 - Open File Explorer and navigate to the folder where `salary.txt` is stored. ( In my case: "C:\Salary\salary.txt" )
@@ -83,4 +83,10 @@ All inherited permissions have been removed and no user longer have access to `s
 
 ![Access denied](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/Access%20denied.PNG)
 
-- To give access back to other users (eg. administrators), 
+<b>To give access back to other users (eg. administrators)</b>
+- Right-click on the `Salary.txt` file and select 'Properties'.
+- Go to 'Security' and click on 'Edit'
+- On the 'Permissions for Salary' page, click on 'add'
+- In the Select Users or Groups box, type the name of the user or group you wish to add (In my case, Administrators).
+- Click on 'Check Names" and click on OK.
+- Assign permissions to allow and click on OK
