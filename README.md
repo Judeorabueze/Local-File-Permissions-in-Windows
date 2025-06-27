@@ -78,3 +78,5 @@ Alternatively, enter `net user Richard` to confirm the local user "Richard"
   
 ![Disable Inheritance](https://github.com/Judeorabueze/Local-File-Permissions-in-Windows/blob/main/Disable%20inheritance.PNG)
 
+- Select 'Remove all inherited permissions form this object'
+All inherited permissions have been removed and users no longer have access to `salary.txt`
